@@ -18,7 +18,7 @@ JsonPowerDB is used to perform CRUD operation
 * JsonPowerDB ( As Database)
 
 # Screenshots:
-<img src="public_html/Images/Saved_Data.png">
+<img src="public_html/Images/screenshots/Screenshot 2024-07-20 194401.png">
 <img src="public_html/Images/database.png">
 
 # Illustrations:
@@ -30,7 +30,7 @@ JsonPowerDB is used to perform CRUD operation
 # HOW TO USE
 
 * **Initially**
-<img src="public_html/Images/Home_Page.png">
+<img src="public_html/Images/screenshots/Screenshot 2024-07-20 194401.png">
 
 We need to enter a roll number 
 
